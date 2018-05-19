@@ -1,0 +1,22 @@
+{
+  "name": "tdd-dev",
+  "version": "1.0.0",
+  "description": "Practicing TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmkanode/tdd-dev.git"
+  },
+  "author": "Christopher Kanode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmkanode/tdd-dev/issues"
+  },
+  "homepage": "https://github.com/cmkanode/tdd-dev#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
